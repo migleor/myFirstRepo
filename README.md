@@ -1,0 +1,2 @@
+# myFirstRepo
+Curso Js Platzi
